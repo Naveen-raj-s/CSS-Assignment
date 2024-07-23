@@ -1,0 +1,27 @@
+.bg{
+    border: 1px solid lightgray;
+    width: 400px;
+    padding: 10px;
+    border-radius:14px;
+    margin: 50px auto;
+    font-family: sans-serif;
+}
+.card{
+    width: 25%;
+    margin-top: 60px;
+
+}
+.card2{
+    width: 25%;
+    margin-top: 60px;
+    margin-left: 90px;
+}
+.inbg{
+    width: 100%;
+    padding: 14px;
+    box-sizing: border-box;
+    border: 1px solid lightgray;
+    color: blue;
+    font-family:sans-serif;
+    margin-top: 40px;
+}
