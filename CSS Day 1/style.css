@@ -1,0 +1,17 @@
+.bg{
+    width: 400px;
+    background-color: rgb(18, 247, 121);
+    font-family: sans-serif;
+    margin: 60px auto;
+    color: black;
+    padding: 120px 50px;
+    border-radius: 16px;
+}
+.btn{
+    border-radius: 30px;
+    border: none;
+    padding: 15px;
+    font-family: sans-serif;
+    font-size: large;
+    font-weight: 100;
+}
